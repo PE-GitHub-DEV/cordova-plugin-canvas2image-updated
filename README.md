@@ -1,0 +1,1 @@
+# cordova-plugin-canvas2image-updated
